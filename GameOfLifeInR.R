@@ -1,4 +1,4 @@
-setwd("C:/Users/Avina Kalle/Documents/MAT_NonlinearDynamics/FinalProject")
+#setwd("...")
 library(caTools)
 N= 50
 T<-7
